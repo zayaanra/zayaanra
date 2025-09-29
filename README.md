@@ -11,6 +11,10 @@ I'm passionate about building software with AI and large language models, explor
 ## 💾 Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
+[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](#) [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#) [![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-purple)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
+
+
 <!--
 **zayaanra/zayaanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
