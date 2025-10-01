@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About Me
 I'm Zayaan Rahman, a software engineer currently working for Telaverge Communications. I have a M.S. in Computer Science from New York University and a B.S. in Computer Science from University at Buffalo.
 
