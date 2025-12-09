@@ -1,5 +1,5 @@
 ## About Me
-I'm Zayaan Rahman, a software engineer currently working for Telaverge Communications. I have a M.S. in Computer Science from New York University and a B.S. in Computer Science from University at Buffalo.
+I'm Zayaan Rahman, a software engineer currently working for Zebra Technologies. I have a M.S. in Computer Science from New York University and a B.S. in Computer Science from University at Buffalo.
 
 I'm passionate about building software with AI and large language models, exploring how they can make everyday workflows smarter and more efficient. I also enjoy diving into systems programming and low-level problem solving, where performance and precision really matter. I also have experience in developing full-stack applications that utilize cloud computing technologies such as AWS.
 
