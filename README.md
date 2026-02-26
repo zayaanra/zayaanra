@@ -3,8 +3,10 @@ I'm Zayaan Rahman, a software engineer currently working for Zebra Technologies.
 
 I'm passionate about building software with AI and large language models, exploring how they can make everyday workflows smarter and more efficient. I also enjoy diving into systems programming and low-level problem solving, where performance and precision really matter. I also have experience in developing full-stack applications that utilize cloud computing technologies such as AWS.
 
+<!--
 ## 🔭 I’m currently working on
 - [Git Detective](https://github.com/zayaanra/git-detective), a full-stack web application that allows users to connect to GitHub repositories and query them using the Google Gemini LLM
+-->
 
 ## 💾 Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
